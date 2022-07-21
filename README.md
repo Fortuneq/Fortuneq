@@ -5,7 +5,7 @@
 * Пишу backend и микросервисы на Golang 
 
 ## Все изучаемые мною языки:
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/C_logo_pur.png/800px-C_logo_pur.png"> <img height="35"> src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg">
+<src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/C_logo_pur.png/800px-C_logo_pur.png"> <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg">
 
 
 ### Где можно меня найти:
