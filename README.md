@@ -9,7 +9,7 @@
 
 ## Что то из стэка:
 <img height="60" src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"> <img height="60" src="https://nats.io/img/logos/nats-horizontal-color.png">
-<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
+<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"><img height ="60" src = "https://en.wikipedia.org/wiki/File:RabbitMQ_logo.svg">
 
 
 ### Где можно меня найти:
