@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kubernetes and AI projects <br>🤝 I’m looking for help with Rust and Crypto <br>🌱 I’m currently learning python AI<br>💬 Ask me about Golang and Microservices<br>⚡ Fun fact at school my nightmare was to become a programmer<br>
+🔭 В данный момент работаю над kubernetes Операторами и Istio Service Mesh <br>🤝 Интересна работа в создании новых веб проектов <br>💬 Могу подсказать по Go и Микросервисам
 
 
 # 💻 Tech Stack:
