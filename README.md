@@ -1,6 +1,6 @@
 # Hi, I'm Vladislav Volkov 👋
 
-**Golang Backend Developer / Tech Lead** · Moscow, Russia
+**Golang Backend Developer ** · Moscow, Russia
 
 I build data-intensive backend systems: pricing, inventory and streaming platforms on Go, PostgreSQL and Kafka — and AI products on the side.
 
@@ -10,10 +10,9 @@ I build data-intensive backend systems: pricing, inventory and streaming platfor
 
 ## 💼 Experience
 
-### Magnit Tech — Golang Backend Developer / Tech Lead
+### Magnit Tech — Golang Backend Developer
 *Mar 2024 – present · Russia's largest food retailer; pharmacy and pricing platform*
 
-- Lead backend development of data-intensive pricing, inventory and pharmacy services across **10,000+ stores** and **30,000+ SKUs** at **5,000+ RPS**
 - Designed an ML-driven dynamic pricing system generating about **$1M/day in additional gross margin** and about 15M in stock-out savings
 - Made dynamic pricing **10× faster**, pharmacy price processing **4× faster** and competitor data processing **5× faster**, cutting manual analyst work by about **100×**
 - Redesigned Kafka consumers and producers (per-key ordering, commit order, retries, outbox), removed feedback loops between services and fixed stale stock in prices by redesigning snapshot and delta merging
