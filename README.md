@@ -57,8 +57,3 @@ Thesis: *a system for monitoring prices and competitors on the Wildberries and O
 - **Technical leadership** — tech lead at Magnit Tech and Black Wall Group
 
 **Languages:** Russian (native), English (fluent)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=fortuneq&show_icons=true&hide_border=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fortuneq&layout=compact&hide_border=true)
