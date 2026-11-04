@@ -1,36 +1,12 @@
 # Hi, I'm Vladislav Volkov 👋
 
-**Golang Backend Developer ** · Moscow, Russia
+**Golang Backend Developer** · Moscow, Russia
 
 I build data-intensive backend systems: pricing, inventory and streaming platforms on Go, PostgreSQL and Kafka — and AI products on the side.
 
 📫 [vladvolkov.work@gmail.com](mailto:vladvolkov.work@gmail.com) · 💬 Telegram: [@vlad_vlkv](https://t.me/vlad_vlkv)
 
 ---
-
-## 💼 Experience
-
-### Magnit Tech — Golang Backend Developer
-*Mar 2024 – present · Russia's largest food retailer; pharmacy and pricing platform*
-
-- Designed an ML-driven dynamic pricing system generating about **$1M/day in additional gross margin** and about 15M in stock-out savings
-- Made dynamic pricing **10× faster**, pharmacy price processing **4× faster** and competitor data processing **5× faster**, cutting manual analyst work by about **100×**
-- Redesigned Kafka consumers and producers (per-key ordering, commit order, retries, outbox), removed feedback loops between services and fixed stale stock in prices by redesigning snapshot and delta merging
-- Wrote 17 technical studies (design reviews with measurements) on Kafka, PostgreSQL and caching changes
-
-### SberTech (Sberbank-Technology) — Golang Backend Developer
-*Mar 2023 – Mar 2024 · Technology subsidiary of Sberbank, Russia's largest bank*
-
-- Developed a Kubernetes/OpenShift-native load-testing platform and an autoscaling system driven by custom workload metrics
-- Built Python-based automated validation and Istio testing tools for distributed infrastructure and deployment analysis
-- Co-developed software registered with Rospatent (certificate **RU2023685242**, Nov 2023) and contributed to invention applications on cloud infrastructure
-
-### Black Wall Group — Golang Backend Developer / Tech Lead
-*Aug 2022 – Mar 2023 · Remote*
-
-- Led backend development of an analytics platform with real-time data processing and dashboards on ClickHouse
-- Built data pipelines and asynchronous distributed services with Go, Redis, RabbitMQ and NATS, including market-data processing for an automated trading system
-- Set up monitoring and analytics with Prometheus and ELK, plus CI/CD and containerized deployment
 
 ## 🎓 Education
 
