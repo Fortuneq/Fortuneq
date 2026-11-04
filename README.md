@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 В данный момент работаю над kubernetes Операторами и Istio Service Mesh <br>🤝 Интересна работа в создании новых веб проектов <br>💬 Могу подсказать по Go и Микросервисам
+🔭 Currently working on Kubernetes operators and the Istio service mesh <br>🤝 Interested in building new web projects <br>💬 Happy to help with Go and microservices
 
 
 # 💻 Tech Stack:
